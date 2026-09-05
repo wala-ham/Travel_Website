@@ -1,3 +1,15 @@
 git config --global user.name "Votre Nom"
 git config --global user.email "votre@email.com"
 git config --list
+
+          MODIFIER LE PROJET
+                  ↓
+             git status
+                  ↓
+              git add .
+                  ↓
+       git commit -m "message"
+                  ↓
+              git push
+                  ↓
+               GitHub
