@@ -2,3 +2,5 @@ node_modules/
 
 tailwind.config-old.js
 .gitattributes
+
+.env
